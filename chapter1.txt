@@ -1,0 +1,1 @@
+This is the first committed file in the lesson where I learned git init, git status, git add <filename.ext>, git commit -m "" etc.
