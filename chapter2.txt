@@ -1,0 +1,1 @@
+This is the second committed file in the lesson where I learned git add . (The dot allows me to say, add all files in this directory to the repository)
